@@ -10,9 +10,13 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Weather Website
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+This application will give you the current weather of a particular location.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]([https://github.com/sajankedia/fraud_detection](https://github.com/vighu0710/weather-website))
+
+<center><img src="images/fraud_detection.jpg"/></center>
 
 ## Header 2
 
