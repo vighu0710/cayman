@@ -2,6 +2,10 @@
 layout: default
 ---
 
+
+
+
+
 # Weather Website
 
 This application will give you the current weather of a particular location.
