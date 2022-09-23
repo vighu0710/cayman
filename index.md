@@ -6,7 +6,7 @@ layout: default
 
 
 
-# Weather Website
+## Weather Website
 
 This application will give you the current weather of a particular location.
 
@@ -16,7 +16,7 @@ This application will give you the current weather of a particular location.
 
 [Link to website](https://raru-weather-app.herokuapp.com/).
 
-# Fraud Dectection
+## Fraud Dectection
 
 This project is created for upgrad training.
 
